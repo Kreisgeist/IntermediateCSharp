@@ -1,0 +1,15 @@
+C:\Projects\Udemy\Classes\Classes\bin\Debug\net6.0\Classes.exe
+C:\Projects\Udemy\Classes\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Projects\Udemy\Classes\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Projects\Udemy\Classes\Classes\bin\Debug\net6.0\Classes.dll
+C:\Projects\Udemy\Classes\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.dll
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Projects\Udemy\Classes\Classes\obj\Debug\net6.0\ref\Classes.dll
