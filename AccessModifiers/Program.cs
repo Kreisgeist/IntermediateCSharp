@@ -1,25 +1,13 @@
-﻿namespace AccessModifiers
-{
-    public class Person
-    {
-        private DateTime _birthday;
+﻿using Amazon;
 
-        public void SetBirthdate(DateTime birthdate)
-        {
-            _birthday = birthdate;
-        }
-        public DateTime GetBirthdate()
-        {
-            return _birthday;
-        }
-    }
+namespace AccessModifiers
+{
     internal class Program
     {
         static void Main(string[] args)
         {
-            var person = new Person();
-            person.SetBirthdate(new DateTime(1982, 1, 1));
-            Console.WriteLine(person.GetBirthdate());
+            var customer = new Customer();
+            //Amazon.RateCalculator calculator = new Amazon.RateCalculator();
         }
     }
 }
