@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing", "Boxing\Boxing.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{00D09D92-7024-4A3E-964C-2E6C2FF27EA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{6506C0AD-675A-4A7A-BFBD-B4D76F1DB319}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{00D09D92-7024-4A3E-964C-2E6C2FF27EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00D09D92-7024-4A3E-964C-2E6C2FF27EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00D09D92-7024-4A3E-964C-2E6C2FF27EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6506C0AD-675A-4A7A-BFBD-B4D76F1DB319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6506C0AD-675A-4A7A-BFBD-B4D76F1DB319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6506C0AD-675A-4A7A-BFBD-B4D76F1DB319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6506C0AD-675A-4A7A-BFBD-B4D76F1DB319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
