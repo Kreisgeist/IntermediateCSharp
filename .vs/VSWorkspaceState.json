@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AccessModifiers"
   ],
+  "SelectedNode": "\\AccessModifiers\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
