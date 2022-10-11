@@ -23,15 +23,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition", "Composition\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Amazon", "Amazon\Amazon.csproj", "{95B59E0E-5CC0-436E-AC10-773A12AF162A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxing", "Boxing\Boxing.csproj", "{987EF712-DF1F-4301-BE29-1EFA0B874D34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boxing", "Boxing\Boxing.csproj", "{987EF712-DF1F-4301-BE29-1EFA0B874D34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{00D09D92-7024-4A3E-964C-2E6C2FF27EA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{00D09D92-7024-4A3E-964C-2E6C2FF27EA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{6506C0AD-675A-4A7A-BFBD-B4D76F1DB319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{6506C0AD-675A-4A7A-BFBD-B4D76F1DB319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability", "Testability\Testability.csproj", "{E266C852-8FD3-4F8B-B5A1-68A2D24AFEAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testability", "Testability\Testability.csproj", "{E266C852-8FD3-4F8B-B5A1-68A2D24AFEAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability.Tests", "Testability.Tests\Testability.Tests.csproj", "{AEFC4EDA-00E7-4E11-ADD6-F14EF080A540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testability.Tests", "Testability.Tests\Testability.Tests.csproj", "{AEFC4EDA-00E7-4E11-ADD6-F14EF080A540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensibility", "Extensibility\Extensibility.csproj", "{A48509F3-EF11-4C8D-A190-F0CD63F9ADAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{AEFC4EDA-00E7-4E11-ADD6-F14EF080A540}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEFC4EDA-00E7-4E11-ADD6-F14EF080A540}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEFC4EDA-00E7-4E11-ADD6-F14EF080A540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48509F3-EF11-4C8D-A190-F0CD63F9ADAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48509F3-EF11-4C8D-A190-F0CD63F9ADAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48509F3-EF11-4C8D-A190-F0CD63F9ADAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48509F3-EF11-4C8D-A190-F0CD63F9ADAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
